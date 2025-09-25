@@ -1,1 +1,1 @@
-pip install bluepy
+apt install python3-bluepy
